@@ -12,7 +12,6 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next.js](https://nextjs.org/)
@@ -40,7 +39,7 @@ $ yarn
 # Execute a aplicação
 $ yarn dev
 
-# Para criat uma Build
+# Para criar uma Build
 $ yarn build
 
 # O servidor inciará na porta:3000 - acesse http://localhost:3000 em seu navegador e pronto <3 
