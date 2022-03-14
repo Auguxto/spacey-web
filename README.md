@@ -1,4 +1,4 @@
-# Spacey
+# SpaceY
 
 ![screencapture-localhost-3000-2022-03-13-22_03_37](https://user-images.githubusercontent.com/62861636/158088474-46190b6f-e722-45f9-8fc5-645188aa4f13.png)
 
