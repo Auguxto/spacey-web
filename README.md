@@ -6,6 +6,8 @@
 	🚧  SpaceY 🚀 Concluído  🚧
 </h4>
 
+[Demo](https://spacey-web.vercel.app/)
+
 [Design](https://www.figma.com/community/file/986447430009792279)
 
 ### 🛠 Tecnologias
